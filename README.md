@@ -47,7 +47,7 @@ This Blender addon simplifies selecting alternating face loops by intelligently 
 
 ## Compatibility
 
-Tested with Blender 3.x. Compatible with most quad-based meshes.
+Tested with Blender 4.4.x. Compatible with most quad-based meshes.
 
 ---
 
