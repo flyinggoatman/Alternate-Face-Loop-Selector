@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "alternate_face_loops_selector"
+version = "1.0.0"
+name = "Alternate Face Loop Selector"
+tagline = "One-click alternating face loop selection (horizontal/vertical)"
+maintainer = "flyinggoatman"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+# blender_version_max can be set if needed to limit upper version
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
